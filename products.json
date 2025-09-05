@@ -1,0 +1,22 @@
+[
+  {"name": "Laptop Pro 15", "price": 75000, "rating": 4.5, "category": "Electronics"},
+  {"name": "Gaming Mouse X200", "price": 2500, "rating": 4.2, "category": "Electronics"},
+  {"name": "Noise Cancelling Headphones", "price": 12000, "rating": 4.7, "category": "Electronics"},
+  {"name": "Sports Shoes Runner", "price": 4000, "rating": 4.3, "category": "Fashion"},
+  {"name": "Casual Cotton Shirt", "price": 1200, "rating": 4.0, "category": "Fashion"},
+  {"name": "Wrist Watch Classic", "price": 3500, "rating": 4.6, "category": "Fashion"},
+  {"name": "Organic Green Tea", "price": 450, "rating": 4.4, "category": "Groceries"},
+  {"name": "Dark Chocolate Pack", "price": 300, "rating": 4.8, "category": "Groceries"},
+  {"name": "Bestseller Novel XYZ", "price": 550, "rating": 4.9, "category": "Books"},
+  {"name": "Educational Kids Puzzle", "price": 800, "rating": 4.5, "category": "Books"},
+  {"name": "Bluetooth Speaker Mini", "price": 2100, "rating": 4.3, "category": "Electronics"},
+  {"name": "Leather Wallet", "price": 999, "rating": 4.1, "category": "Fashion"},
+  {"name": "LED Desk Lamp", "price": 1500, "rating": 4.6, "category": "Electronics"},
+  {"name": "Yoga Mat Eco", "price": 700, "rating": 4.2, "category": "Sports"},
+  {"name": "Football Pro", "price": 1200, "rating": 4.5, "category": "Sports"},
+  {"name": "Backpack Travel 30L", "price": 2800, "rating": 4.7, "category": "Fashion"},
+  {"name": "Wireless Keyboard", "price": 1800, "rating": 4.4, "category": "Electronics"},
+  {"name": "Cooking Pan Nonstick", "price": 2400, "rating": 4.6, "category": "Home"},
+  {"name": "Smartphone Stand", "price": 450, "rating": 4.2, "category": "Electronics"},
+  {"name": "Water Bottle Steel", "price": 600, "rating": 4.3, "category": "Sports"}
+]
